@@ -52,8 +52,8 @@ pip install -r requirements.txt
 
 - Add datasets
 
-```Place movies_with_emotion_new.csv and tagged_des_new.txt inside the project folder.
-```
+  Place movies_with_emotion_new.csv and tagged_des_new.txt inside the project folder.
+  
 - Run the app
 ```
 python app.py
